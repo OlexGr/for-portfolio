@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    font-size: 20px;
+}
+
+body {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+header .logo {
+    margin-left: 275px;
+}
+
+header li {
+    display: inline;
+}
+
+.hero {
+    background-image: url(/img/radu-florin-CwTBt6jyagQ-unsplash\ 1.png);
+    background-size: 100%;
+    padding: 175px 1205px 336px 275px;
+}
+
+.hero h1 {
+    font-size: 65px;
+    line-height: 74px;
+    color: #01996D;
+    margin-bottom: 30px;
+}
+
+.hero p {
+    font-family: 'Lato';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        color: #484848;
+}
+
+.hero button {
+    padding: 20px 50px;
+    margin-top: 18px;
+    background-color: #01996D;
+    color: #fff;
+}
+
+.how_it_works {
+    /* background-color: aquamarine; */
+    /* background-image: url(/img/image\ 30.png); */
+    background-size: 100%;
+}
+
+.about {
+    background-color: #245852;
+}
+
+footer {
+    background-color: #245852;
+}
